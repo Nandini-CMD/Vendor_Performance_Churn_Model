@@ -1,0 +1,8 @@
+2025-08-07 16:25:25,530 - INFO - Ingesting begin_inventory.csv in db
+2025-08-07 16:25:29,379 - INFO - Ingesting end_inventory.csv in db
+2025-08-07 16:25:39,340 - INFO - Ingesting purchases.csv in db
+2025-08-07 16:27:09,272 - INFO - Ingesting purchase_prices.csv in db
+2025-08-07 16:27:36,816 - INFO - Ingesting sales.csv in db
+2025-08-07 16:36:49,513 - INFO - Ingesting vendor_invoice.csv in db
+2025-08-07 16:36:49,658 - INFO - All files ingested successfully.
+2025-08-07 16:36:49,659 - INFO - Total time taken to ingest all files: 11.41 seconds
